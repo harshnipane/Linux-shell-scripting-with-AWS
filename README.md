@@ -1,2 +1,2 @@
 # Linux-shell-scripting-with-AWS
-shell will aws
+shell with aws
